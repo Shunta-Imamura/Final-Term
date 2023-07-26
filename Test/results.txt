@@ -1,0 +1,16 @@
+Player1Name vs. Player2Name
+------------------------------
+Round 1: Player1Name chose Rock, Player2Name chose Paper
+Round 2: Player1Name chose Paper, Player2Name chose Rock
+Round 3: Player1Name chose Scissors, Player2Name chose Paper
+Round 4: Player1Name chose Rock, Player2Name chose Rock
+Round 5: Player1Name chose Paper, Player2Name chose Paper
+Round 6: Player1Name chose Scissors, Player2Name chose Scissors
+Round 7: Player1Name chose Rock, Player2Name chose Rock
+Round 8: Player1Name chose Paper, Player2Name chose Scissors
+Round 9: Player1Name chose Scissors, Player2Name chose Scissors
+Round 10: Player1Name chose Rock, Player2Name chose Rock
+------------------------------
+Results:
+Player1Name - Wins: 2 Losses: 2 Draws: 6
+Player2Name - Wins: 2 Losses: 2 Draws: 6
